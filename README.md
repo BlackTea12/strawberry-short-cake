@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
   <a href="">![Windows](https://img.shields.io/badge/Windows-11-blue)</a>
   <a href="">![Python3](https://img.shields.io/badge/python-3.12-green)</a>
